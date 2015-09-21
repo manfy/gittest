@@ -1,3 +1,7 @@
 aaaa
 
+<<<<<<< HEAD
 inset by master
+=======
+insert by test
+>>>>>>> test
